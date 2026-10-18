@@ -1,0 +1,2 @@
+1,The Great Gatsby,CHECKOUT,2026-10-18,2026-11-01
+1,The Great Gatsby,RETURN,2026-10-18,2026-10-18
